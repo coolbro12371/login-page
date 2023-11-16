@@ -9,7 +9,7 @@ function validateForm(event) {
     if (username === "admin" && password === "coolbro12371best") {
       // Successful login
       alert("Login successful!");
-      location.href = "https://docs.google.com/document/d/1KqTtezbx1iB5DIJ04GRdcDVMaR6tShDeZMzgMlcP1oM/edit";
+      window.location.href = "https://docs.google.com/document/d/1KqTtezbx1iB5DIJ04GRdcDVMaR6tShDeZMzgMlcP1oM/edit";
     } else {
       // Failed login
       var errorMessage = document.getElementById("errorMessage");
