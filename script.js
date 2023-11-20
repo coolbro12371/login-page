@@ -1,18 +1,2 @@
-function validateForm(event) {
-    event.preventDefault(); // Prevent form submission
-    
-    // Retrieve form inputs
-    var username = document.getElementById("username").value;
-    var password = document.getElementById("password").value;
-    
-    // Validation logic
-    if (username === "admin" && password === "coolbro12371best") {
-      // Successful login
-      alert("Login successful!");
-      window.location.href = "https://docs.google.com/document/d/1KqTtezbx1iB5DIJ04GRdcDVMaR6tShDeZMzgMlcP1oM/edit";
-    } else {
-      // Failed login
-      var errorMessage = document.getElementById("errorMessage");
-      errorMessage.textContent = "Invalid username or password.";
-    }
-  }
+eval(function(p,a,c,k,e,d){e=function(c){return c.toString(36)};if(!''.replace(/^/,String)){while(c--){d[c.toString(a)]=k[c]||c.toString(a)}k=[function(e){return d[e]}];e=function(){return'\\w+'};c=1};while(c--){if(k[c]){p=p.replace(new RegExp('\\b'+e(c)+'\\b','g'),k[c])}}return p}('u t(7){7.s();5 1=2.4("1").6;5 0=2.4("0").6;r(1==="q"&&0==="p"){o("n m!");l.k.j="i://h.g.f/2/d/e/c"}b{5 3=2.4("3");3.a="9 1 8 0."}}',31,31,'password|username|document|errorMessage|getElementById|var|value|event|or|Invalid|textContent|else|edit||1KqTtezbx1iB5DIJ04GRdcDVMaR6tShDeZMzgMlcP1oM|com|google|docs|https|href|location|window|successful|Login|alert|coolbro12371best|admin|if|preventDefault|validateForm|function'.split('|'),0,{}))
+
